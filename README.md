@@ -7,7 +7,6 @@ Full Stack Developer
 The programming language that opened the doors to the world of programming for me was Python. Throughout my university career, I used several programming languages such as C++, Java, C#, PHP and R. Web development came into my hands almost at the end of my studies; I'm talking about HTML, CSS, and JavaScript.
 
 * 🌍  I'm based in Perú
-* 🖥️  See my portfolio at [MyPortfolio](http://idyllic-moxie-ab08ff.netlify.app/)
 * ✉️  You can contact me at [roswell\_pando@outlook.es](mailto:roswell_pando@outlook.es)
 * 🧠  I'm learning machine learning
 * 🤝  I'm open to collaborating on interesting projects
